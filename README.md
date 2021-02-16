@@ -7,7 +7,7 @@
 ####  I'm Software Developer from Turkey
 
 
-### Languages and Tools 🛠 
+<h3 align="left">Languages and Tools 🛠</h3>  
 
 <p align="left"> 
   <a href="https://www.java.com" target="_blank"> 
@@ -42,8 +42,7 @@
   </a> 
 </p>
 
-
-### Connect with me:
+<h3 align="left">Connect with me:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/k%C3%BCbra-usluca-480498194/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kubra's linkedin" height="30" width="40" />
