@@ -43,7 +43,7 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/k%C3%BCbra-usluca-480498194/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kubra's linkedin" height="30" width="40" />
   </a>
