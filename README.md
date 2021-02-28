@@ -1,7 +1,7 @@
 <div>
 <br>
 
-<h1 align="center">Hi! 👋  I'm **Kübra Usluca**</h1>
+<h1 align="center">Hi! 👋  I'm Kübra Usluca</h1>
 <h3 align="center">I am a computer engineering student at Kocaeli University.</h3>
 
 <br />
