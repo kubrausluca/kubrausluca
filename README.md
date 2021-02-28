@@ -4,7 +4,7 @@
 
 # Hi! 👋  I'm **Kübra Usluca**
 
-####  I'm Software Developer from Turkey
+####  I am a computer engineering student at Kocaeli University.
 
 
 <h3 align="left">Languages and Tools 🛠</h3>  
