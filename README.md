@@ -7,7 +7,9 @@
 ####  I am a computer engineering student at Kocaeli University.
 
 <div align="left">
-🌱 I’m currently learning **React Native** 
+- 🌱 I’m currently learning **React Native, React.js**
+
+- 📫 How to reach me **kubraa.uslucaa@gmail.com**
 </div>
 
 <h3 align="left">Languages and Tools 🛠</h3>  
