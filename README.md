@@ -10,9 +10,13 @@
 
 <br />
 
-- 🌱 I’m currently learning **React Native, React.js**
-- 📫 How to reach me **kubraa.uslucaa@gmail.com**
+<p align="center">
+  🌱 I’m currently learning <strong>React Native, React.js</strong>
+</p>
 
+<p align="center">
+  📫 How to reach me <a href="mailto:kubraa.uslucaa@gmail.com">kubraa.uslucaa@gmail.com</a> 
+</p>
 
 <h3>Connect with me:</h3>
 <div>
