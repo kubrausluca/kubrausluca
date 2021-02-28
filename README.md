@@ -6,7 +6,9 @@
 
 ####  I am a computer engineering student at Kocaeli University.
 
+<div align="left">
 🌱 I’m currently learning **React Native** 
+</div>
 
 <h3 align="left">Languages and Tools 🛠</h3>  
 
