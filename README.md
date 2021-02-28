@@ -1,13 +1,15 @@
 <div>
-<br>
+<br />
 
 <h1 align="center">Hi! 👋  I'm Kübra Usluca</h1>
-<h3 align="center">I am a computer engineering student at Kocaeli University.</h3>
+<h3 align="center">I'm a computer engineering student at Kocaeli University.</h3>
 
 <br />
 
 - 🌱 I’m currently learning **React Native, React.js**
 - 📫 How to reach me **kubraa.uslucaa@gmail.com**
+
+<br />
 
 <h3 align="left">Languages and Tools 🛠</h3>  
 
@@ -52,6 +54,6 @@
   <a href="https://kubrausluca.medium.com/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@kubrausluca" height="30" width="40" />
   </a>
-<br>
+
 </div>
 </div>
