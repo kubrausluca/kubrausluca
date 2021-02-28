@@ -1,7 +1,7 @@
 <div>
   
 <div align="center">
-<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+<img src="https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif" width="400px" />
 </div>
 
 <br />
@@ -14,7 +14,6 @@
 - 🌱 I’m currently learning **React Native, React.js**
 - 📫 How to reach me **kubraa.uslucaa@gmail.com**
 
-<br />
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
