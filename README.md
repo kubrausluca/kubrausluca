@@ -1,8 +1,7 @@
-<div>
-  
+
 <div align="center">
 <img src="https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif" width="300px" />
-</div>
+
 
 <br />
 
@@ -15,8 +14,8 @@
 - 📫 How to reach me **kubraa.uslucaa@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
-<div align="left">
+<h3>Connect with me:</h3>
+<div>
   <a href="https://www.linkedin.com/in/kubrausluca/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kubra usluca's linkedin" height="30" width="40" />
   </a>
@@ -25,9 +24,9 @@
   </a>
 </div>
 
-<h3 align="left">Languages and Tools 🛠</h3>  
+<h3>Languages and Tools 🛠</h3>  
 
-<p align="left"> 
+<p> 
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
@@ -63,6 +62,6 @@
 <br />
 <br />
 
-<img align="left" alt="Kübra Usluca's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kubrausluca&show_icons=true&hide_border=true&theme=radical" />
+<img alt="Kübra Usluca's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kubrausluca&show_icons=true&hide_border=true&theme=radical" />
 
 </div>
