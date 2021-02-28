@@ -1,4 +1,9 @@
 <div>
+  
+<div align="center">
+<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+</div>
+
 <br />
 
 <h1 align="center">Hi! 👋  I'm Kübra Usluca</h1>
