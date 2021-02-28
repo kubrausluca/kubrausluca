@@ -1,16 +1,13 @@
-
-<div align="center">
+<div>
 <br>
 
-# Hi! 👋  I'm **Kübra Usluca**
+<h1 align="center">Hi! 👋  I'm **Kübra Usluca**</h1>
+<h3 align="center">I am a computer engineering student at Kocaeli University.</h3>
 
-####  I am a computer engineering student at Kocaeli University.
+<br />
 
-<div align="left">
 - 🌱 I’m currently learning **React Native, React.js**
-
 - 📫 How to reach me **kubraa.uslucaa@gmail.com**
-</div>
 
 <h3 align="left">Languages and Tools 🛠</h3>  
 
