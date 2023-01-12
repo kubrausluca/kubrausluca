@@ -64,7 +64,4 @@
 
 <br />
 <br />
-
-<img alt="Kübra Usluca's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kubrausluca&show_icons=true&hide_border=true&theme=radical" />
-
 </div>
